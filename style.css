@@ -1,61 +1,25 @@
-@import url('https://fonts.googleapis.com/css?family=Aldrich');
-body {
-    margin: 0;
-    font-family: monospace;
+@import url('https://fonts.googleapis.com/css?family=Rajdhani');
+body{
+  background-color: smokewhite;
+  font-family: 'Rajdhani', sans-serif;
+  display: grid;
+  grid-template-columns: 20% 20% 20% 20% 20%;
+  grid-template-rows: 20% 20% 20% 20% 20%;
 }
 
-.parallax {
-  margin-top: 0%;
-    /* The image used */
-    /* background-image: url("photos/DSC00226.jpg"); */
-    background-color: #FE9696;
-
-
-    /* Set a specific height */
-    height: 720px;
-
-    /* Create the parallax scrolling effect */
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    position: relative;
-  }
-
-  div{
-    margin-left:0%;
-    padding:0px 16px;
-    height:720px;
-  }
-
-.active{
-  padding: 10px;
-  position: absolute;
-  color: #95698A;
-  font: bold 50px 'Aldrich', sans-serif;
-  margin-top: 150px;
-  margin-left: 200px;
-  text-align: right;
-  letter-spacing: 5px;
-  list-style: none;
-}
-#myvideo{
-  align-self: center;
-  margin-top: 200px;
+.p1{
+  padding-top: 150px;
+  grid-column-start: 3;
 
 }
-a:link, a:visited, a:hover, a:active {
-    text-decoration: none;
+.p2{
+  grid-column-start: 3;
 }
-a:hover, a:active {
-    background-color: red;
-}
-footer{
-  position: absolute;
-  bottom: 0;
-}
-img{
-  width: 50px;
-  height: 50px;
 
+.wrapper{
+  grid-column-start: 3;
+  color: rgb(153, 173, 173);
+}
+a{
+  text-decoration: none;
 }
