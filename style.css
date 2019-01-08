@@ -1,25 +1,26 @@
-@import url('https://fonts.googleapis.com/css?family=Rajdhani');
-body{
-  background-color: smokewhite;
+@import url('https://fonts.googleapis.com/css?family=Rajdhani|ZCOOL+KuaiLe');
+
+.bgColor {
+  color: white;
+  position: relative;
+  left: 100px;
+  top: 100px;
   font-family: 'Rajdhani', sans-serif;
-  display: grid;
-  grid-template-columns: 20% 20% 20% 20% 20%;
-  grid-template-rows: 20% 20% 20% 20% 20%;
+  background-color: #3c40c6;
 }
 
-.p1{
-  padding-top: 150px;
-  grid-column-start: 3;
-
-}
-.p2{
-  grid-column-start: 3;
+.p1 span {
+  background-color: #ff5e57;
+  color: white;
 }
 
-.wrapper{
-  grid-column-start: 3;
-  color: rgb(153, 173, 173);
-}
-a{
+a {
+  font-size: 20x;
+  color: white;
   text-decoration: none;
+}
+
+a:hover {
+  color: #ff5e57;
+  font-size: 25px;
 }
