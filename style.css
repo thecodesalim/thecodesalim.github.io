@@ -1,18 +1,18 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto|Turret+Road&display=swap');
 :root {
   --mainColor: #0004ff;
+  color: black;
 }
 html {
   margin-top: 20px;
   margin: 5px;
-  font-size: 3vw;
+  font-size: 2.5vw;
   height: 90%;
   width: 95%;
   border: 2px solid black;
-
 }
+
 .bgColor {
-  color: black;
   font-family: 'Roboto', sans-serif;
   background-color: smokewhite;
   border: 2px solid black;
@@ -26,6 +26,10 @@ html {
   border-bottom: 2px solid black;
 }
 
+a {
+  color: white;
+ 
+}
 a:hover {
   text-decoration-style: wavy;
 }
@@ -52,17 +56,21 @@ li {
   margin-top: 200px;
 }
 
+.main span span {
+  color: white;
+}
+
 .main span span:first-child, .menu li:first-child {
-  color: red
+  background: red
 }
 
 .main span span:nth-child(2), .menu li:nth-child(2) {
-  color: blue
+  background: blue
 }
 
 .main span span:nth-child(3), .menu li:nth-child(3) {
-  color: green
-}S
+  background: green
+}
 
 
 
