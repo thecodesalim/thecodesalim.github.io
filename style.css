@@ -1,33 +1,29 @@
-@import url("https://fonts.googleapis.com/css?family=Rajdhani|ZCOOL+KuaiLe");
+@import url('https://fonts.googleapis.com/css?family=Roboto|Turret+Road&display=swap');
 :root {
   --mainColor: #0004ff;
 }
 html {
+  margin-top: 20px;
+  margin: 5px;
   font-size: 3vw;
-  height: 95%;
-  width: 90%;
+  height: 90%;
+  width: 95%;
   border: 2px solid black;
 
 }
 .bgColor {
   color: black;
-  font-family: "Rajdhani", sans-serif;
+  font-family: 'Roboto', sans-serif;
   background-color: smokewhite;
   border: 2px solid black;
   height: 90vh;
   width: 95vw;
-  
 }
 
 .wrapper {
   margin: 10px;
   transform-origin: left top 0px;
-  
   border-bottom: 2px solid black;
-}
-
-a {
-  color: #000;
 }
 
 a:hover {
@@ -42,7 +38,8 @@ a:hover {
 }
 .menu {
   margin: 10px;
-  display: flex;
+  margin-top: 200px;
+  
 
 }
 
@@ -52,8 +49,23 @@ li {
 }
 
 .main span {
-  
+  margin-top: 200px;
 }
+
+.main span span:first-child, .menu li:first-child {
+  color: red
+}
+
+.main span span:nth-child(2), .menu li:nth-child(2) {
+  color: blue
+}
+
+.main span span:nth-child(3), .menu li:nth-child(3) {
+  color: green
+}S
+
+
+
 
 
 
