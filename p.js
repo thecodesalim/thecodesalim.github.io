@@ -11,6 +11,14 @@ var animation = anime({
   loop: false
 });
 
+var s = anime({
+  targets: '.second',
+  autoplay: false,
+  translateX: 250,
+  easing: 'easeInOutSine'
+});
+
+
 const stories = [
   {
     body: "Understanding Prang: Looking into Politics",
@@ -43,7 +51,7 @@ const stories = [
     list: `
     <ul> 
     <li>She is interested in POLITICS</li>
-    <li>She doesnt particpatew in POLITICS</li>
+    <li>She doesnt particpate in POLITICS</li>
     </ul>`
   }
 ];
@@ -77,16 +85,13 @@ function checkKey(e) {
 }
 console.log(animation.play);
 window.onclick = animation.play;
-
-const li = document.querySelector('li')
-anime({
-  targets: li,
-  translateX: 270,
-  delay: anime.stagger(100),
-  loop: true
-
-});
+//window.onclick = s.play
 
 
-console.log(window.screenLeft)
+
+
+
+
+
+
 
