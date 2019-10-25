@@ -59,6 +59,12 @@ const stories = [
 main.textContent = stories[count].body;
 second.innerHTML = stories[count].list
 
+anime({
+  targets: '.main',
+  translateX: 250,
+  easing: 'easeInOutSine'
+});
+
 
 const colors = ["green", "yellow", "red"];
 
