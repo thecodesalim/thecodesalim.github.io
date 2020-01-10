@@ -6,12 +6,114 @@
 </description>
     <link>http://localhost:4000/blog/</link>
     <atom:link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 08 Jan 2020 04:33:20 +0000</pubDate>
-    <lastBuildDate>Wed, 08 Jan 2020 04:33:20 +0000</lastBuildDate>
+    <pubDate>Fri, 10 Jan 2020 01:04:20 +0000</pubDate>
+    <lastBuildDate>Fri, 10 Jan 2020 01:04:20 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
-        <title>👋hello</title>
+        <title>Good and Poor Design using Dieter Rams Principles 📐</title>
+        <description>&lt;h2 id=&quot;brief&quot;&gt;Brief&lt;/h2&gt;
+
+&lt;p&gt;In my Resarch and Communication class, I was given tasked with producing 3 good and 3 poor designs  using the 10 Principle of Good Design by Dieter Rams.&lt;/p&gt;
+
+&lt;h2 id=&quot;research&quot;&gt;Research&lt;/h2&gt;
+
+&lt;p&gt;It is important to understand why good design is important. Design is a form of communication, communications are meant to be clear and easy to understand. Same applies for good design.&lt;/p&gt;
+
+&lt;p&gt;What is good design? That is where Dieter Rams takes control. Dieter Rams is a German Industrial Designer known for his “less is better” philosophy which he used to design several products for Braun. He led and laid guidelines for the Functionalist design movement. Functionalist design is a design movement in which the form of the object is driven by the purpose of the object and not by its aesthetics.&lt;/p&gt;
+
+&lt;p&gt;Dieter Rams codified his learning experience as a Designer into a set of 10 collective principles.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-10-principles-of-good-design&quot;&gt;The 10 Principles of Good Design&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Good design is innovative&lt;/li&gt;
+  &lt;li&gt;Good design makes a product useful&lt;/li&gt;
+  &lt;li&gt;Good design is aesthetic&lt;/li&gt;
+  &lt;li&gt;Good design makes a product understandable&lt;/li&gt;
+  &lt;li&gt;Good design is unobtrusive&lt;/li&gt;
+  &lt;li&gt;Good design is honest&lt;/li&gt;
+  &lt;li&gt;Good design is long lasting&lt;/li&gt;
+  &lt;li&gt;Good design is thorough down to the last detail&lt;/li&gt;
+  &lt;li&gt;Good design is environmentally friendly&lt;/li&gt;
+  &lt;li&gt;Good design is as little design as possible&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;good-design&quot;&gt;Good Design&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Tote Bag&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;A Tote Bag (see Fig. 1) ticks all the 10 Good Design Principles by Dieter Rams. A tote bag design is simple and allows the user to use in anyway or form. The user can hold it, put on it on their shoulder or strap it around. The design makes it obvious what it is made for.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;![an image alt text](/blog/images/11186401-nude.jpg &quot;Fig.1 A Tote Bag)
+
+Fig.1 A Tote Bag
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;2&lt;/li&gt;
+  &lt;li&gt;3&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;poor-design&quot;&gt;Poor Design&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;Switch Wall&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;I have a thing about switches and they are overused to the extent they are in almost every building and people are accustomed to it. At the apartment I live in I have the switch wall (see fig. 1). The switch wall has the switches for the Cooker, Laundry Machine, Fan and Oven. The big issue is you cannot tell which switch is for which appliance without actually switching it on.&lt;/p&gt;
+
+&lt;p&gt;As Dieter Rams listed in his design principles a design should be unobtrusive, makes the product understandable but this wall switch fails miserably on those design principles. Most people will blame themselves saying “I don’t how it works”. A good design should eliminate the need for that an automatically informs the users what each switch does. This is a small wall switch imagine an auditorium having such, it will be a complete disaster.&lt;/p&gt;
+
+&lt;p&gt;They are two way this problem can be fixed:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;1. Leaving the switch on the appliances
+2. Label each switch
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;Faucets with Handle&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Whenever I step into a public restroom and I see they have a faucet with a handle(see fig. ) I shrug. This is a personal pet peeve of mine. For example, someone takes a poo and wants to wash their hands they have to touch the handle, wash their hands and use the same hand to close the faucet, this makes no sense. The handle is already dirty from the last person to use,the next person and the next person, it is a mess.&lt;/p&gt;
+
+&lt;p&gt;This product is not designed thoroughly down to the last detail and lacks usefulness. And also what I do in this situation is leave the restroom or when I’m pressed I use tissue paper to control the handle which makes the product not be environmentally friendly.&lt;/p&gt;
+
+&lt;p&gt;A simple solution to this product is using faucet that operate automatically(see Fig. )&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;Snapchat&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Snapchat a mobile phone app started out as an app that allows users to exchange disappearing photos. With time snapchat kept adding features that made the app lose most of its user base.&lt;/p&gt;
+
+&lt;p&gt;These features added include text messaging, phone calls, video calls and also building a gaming platform into the app. The term used for this, is called “feature creeping” . Feature creep is the excessive ongoing expansion or addition of new features in a product, especially in computer software, video games and consumer and business electronics. These extra features go beyond the basic function of the product and can result in software bloat and over-complication, rather than simple design.&lt;/p&gt;
+
+&lt;p&gt;Good design makes a product understandable, snapchat design is not that. A new user coming to use Snapchat will be overwhelmed by the features the app provide, which makes the application difficult to understand and use.&lt;/p&gt;
+
+&lt;h3 id=&quot;references&quot;&gt;References&lt;/h3&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;1. [https://hackernoon.com/dieter-rams-10-principles-of-good-design-e7790cc983e9](https://hackernoon.com/dieter-rams-10-principles-of-good-design-e7790cc983e9)
+2. [https://en.wikipedia.org/wiki/Feature_creep](https://en.wikipedia.org/wiki/Feature_creep)
+3. [https://www.businessinsider.com/snapchat-losing-popularity-social-media-app-facebook-tiktok-2019-1?r=US&amp;amp;IR=T](https://www.businessinsider.com/snapchat-losing-popularity-social-media-app-facebook-tiktok-2019-1?r=US&amp;amp;IR=T)
+4.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+</description>
+        <pubDate>Thu, 10 Oct 2019 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/blog/2019/10/Good-and-Poor-Design</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2019/10/Good-and-Poor-Design</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>hello 👋</title>
         <description>&lt;p&gt;&lt;strong&gt;Hello?&lt;/strong&gt; My name is Salim Abubakar, I’m currently studying Design, Innovation and Brand Management at University for the Creative Arts. This blog is holding my thought process for my university work as a journal for my journey through my degree. I’ll also share other things that interest me on this blog especially Software Engineering and Digital Design. I studied Software Engineering in my undergraduate degree. My interest heavily relies on how digital products can be improved through design, making the User Interface and User Experience more aesthetically pleasing and intuitive.&lt;/p&gt;
 </description>
         <pubDate>Tue, 01 Oct 2019 05:43:48 +0100</pubDate>
