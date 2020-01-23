@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/blog/2019/10/hello</loc>
+<loc>http://localhost:4000/blog/2019/10/Hello</loc>
 <lastmod>2019-10-01T05:43:48+01:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/blog/2019/10/Good-and-Poor-Design</loc>
 <lastmod>2019-10-10T00:00:00+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/blog/2019/10/International-Pedagogy</loc>
+<lastmod>2019-10-25T05:43:48+01:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/blog/404</loc>
