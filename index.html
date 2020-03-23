@@ -37,6 +37,9 @@
 
   <body class="bgColor">
     <main>
+      <div class='flip'>
+        <div class="btn"></div>
+      </div>
       <h2>Hi. I'm Salim.</h2>
       <h3>I’m a Software Engineer + Digital Designer.</h3>
       <ul>
@@ -46,9 +49,20 @@
         <div class="block"></div>
         <li><a href="https://github.com/thecodesalim">GITHUB</a></li>
       </ul>
+      
     </main>
     <script type="text/javascript">
-      console.log(document.getElementById("pop").innerHTML);
+      let themeColor
+      let themeLs
+      const t = document.querySelector('html') 
+      document.body.querySelector('.btn').addEventListener('click', () => {
+        t.style.backgroundColor = (t.style.backgroundColor === 'black') ? "white" : "black"
+        themeColor = t.style.backgroundColor
+        localStorage.setItem('one', themeColor)
+        console.log(localStorage.getItem('one'))
+      })
+
+      t.style.backgroundColor = localStorage.getItem('one')
     </script>
   </body>
 </html>
